@@ -11,7 +11,14 @@ class Course(models.Model):
     last_update = models.DateTimeField()
 
 
-class Booking(models.Model):
+class Booking(models.Model):        
+    STATUS_CHOICES = [
+        ('pending', 'Pending'),
+        ('confirmed', 'Confirmed'),
+        ('completed', 'Completed'),
+        ('canceled', 'Canceled'),
+    ]
+
     user = models.ForeignKey()
     course = models.ForeignKey()
     booking_date = models.DateTimeField()
