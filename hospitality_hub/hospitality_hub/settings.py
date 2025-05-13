@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'users.apps.UsersConfig',
-    'bookings.apps.BookingsConfig',
-
+    'hospitality_hub.bookings',
+    'hospitality_hub.users',
+    'hospitality_hub.courses',
 ]
 
 MIDDLEWARE = [
