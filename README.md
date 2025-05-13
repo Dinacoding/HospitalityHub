@@ -20,3 +20,17 @@ Hospitality Hub primary and secondary target audience is clearly hospitality sta
 - Event management companies;
 - other related businesses in the tourism and hospitality sector.
 
+## User Experience (UX)
+
+### User goals 
+
+In the context of the "Hospitality Hub" platform is designed with a clear understanding of the distinct goals of its users. For hospitality staff, the platform aims to facilitate skill development relevant to their roles, enabling them to improve job performance and advance their careers within the dynamic hospitality industry.
+For hospitality business owners and managers, Hospitality Hub serves the goal of efficient and effective staff training. They aim to upskill their teams, enhance the quality of guest service, and ensure adherence to industry standards. heir goal is to cultivate a highly competent and confident workforce, leading to increased customer satisfaction, streamlined operations, and a stronger, more profitable business. 
+
+**Hospitality Staff** - Achieve Professional Growth: To acquire new skills and knowledge that will enable them to perform their current job better and open doors for career advancement within the hospitality industry.
+
+**Enhance Team Performance** - To equip their staff with the necessary skills and standardized training to improve efficiency, productivity, and the overall quality of service provided to guests.**
+
+**Hospitality Business Owners/Managers** - Ensure Consistent Service Standards: To provide uniform training across their team, guaranteeing a consistent and high level of service delivery that meets and exceeds guest expectations, ultimately building brand loyalty.
+
+
